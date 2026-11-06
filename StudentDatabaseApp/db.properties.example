@@ -1,0 +1,9 @@
+# Copy this file to db.properties and fill in your own credentials.
+# db.properties is git-ignored — never commit it with a real password.
+# Environment variables (DB_HOST, DB_PORT, DB_NAME, DB_USER, DB_PASSWORD)
+# take priority over these values.
+db.host=localhost
+db.port=3306
+db.name=student_db
+db.user=root
+db.password=

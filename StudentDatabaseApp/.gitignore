@@ -1,1 +1,13 @@
-/bin/
+# Compiled output
+bin/
+bin-test/
+*.class
+
+# Downloaded libraries (see README — download MySQL Connector/J and JUnit into lib/)
+lib/
+
+# Eclipse
+.settings/
+
+# Local database config — never commit real credentials
+db.properties
